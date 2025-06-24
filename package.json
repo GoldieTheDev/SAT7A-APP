@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Luckily-UwU.github.io/SAT7A-APP",
+  "homepage": "https://GoldieTheDev.github.io/SAT7A-APP",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
